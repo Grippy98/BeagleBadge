@@ -2,8 +2,8 @@
 # Going to just a component in mult-repo docsite in the future.
 
 site:
-  title: Board Template
-  start_page: board::index.adoc
+  title: BeaglebBadge
+  start_page: beagle_badge::index.adoc
 
 content:
   sources:

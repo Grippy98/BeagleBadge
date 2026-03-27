@@ -1,6 +1,6 @@
-name: board
+name: beagle_badge
 version: true
-title: BoardName
+title: BeagleBadge
 nav:
 - modules/ROOT/nav.adoc
 
